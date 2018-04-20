@@ -42,6 +42,9 @@ footer{
 }
 
 
+.special{
+  color: red;
+}
 
 /*Media Queries*/
 @media only screen and (max-width: 1156px){
